@@ -1,7 +1,7 @@
 package main
 
 import (
-  "./words"
+  "github.com/r-fujiwara/hiromi-go/words"
   "fmt"
   "os"
 )
