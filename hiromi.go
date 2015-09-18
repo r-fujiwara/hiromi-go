@@ -6,6 +6,7 @@ import (
   "os"
 )
 
+// this is current stable on go run
 func goHome() {
 	fmt.Println("Go home")
 }
